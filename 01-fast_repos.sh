@@ -5,7 +5,7 @@ set -e
 # Author  : Erik Dubois at http://www.erikdubois.be
 # License : Distributed under the terms of GNU GPL version 2 or later
 # 
-# AS ALLWAYS, KNOW WHAT YOU ARE DOING.
+# AS ALWAYS, KNOW WHAT YOU ARE DOING.
 #======================================================================================
 
 echo "################################################################"
